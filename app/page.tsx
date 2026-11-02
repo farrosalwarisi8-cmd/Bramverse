@@ -14,8 +14,8 @@ const waGeneral =
     "Halo Admin Bramverse, saya mau konsultasi dan negosiasi project. Boleh dibantu estimasinya?"
   );
 
-const ADMIN_DISPLAY = "+62 852-8033-6263";
-const ADMIN_TEL = "tel:+6285280336263";
+const ADMIN_DISPLAY = "+62 851-6861-6978";
+const ADMIN_TEL = "tel:+6285168616978";
 
 export default function Home() {
   return (

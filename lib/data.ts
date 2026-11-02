@@ -4,7 +4,7 @@ export type SimulatorOption = {
   hari: number;
 };
 
-export const WA_NUMBER = "6285280336263";
+export const WA_NUMBER = "6285168616978";
 
 export const tipeOptions: SimulatorOption[] = [
   { label: "Company Profile", harga: 4.5, hari: 14 },
